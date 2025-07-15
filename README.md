@@ -16,12 +16,12 @@ To design a **Power BI dashboard** that visualizes the historical performance of
 
 ### 🔹 Light Mode  
 <p align="center">
-  <img src="stock_dashboard_white.gif" alt="Light Mode Dashboard" width="700"/>
+  <img src="stock_dashboard_white.png" alt="Light Mode Dashboard" width="700"/>
 </p>
 
 ### 🔸 Dark Mode  
 <p align="center">
-  <img src="stock_dashboard_black.gif" alt="Dark Mode Dashboard" width="700"/>
+  <img src="stock_dashboard_black.png" alt="Dark Mode Dashboard" width="700"/>
 </p>
 
 ---
